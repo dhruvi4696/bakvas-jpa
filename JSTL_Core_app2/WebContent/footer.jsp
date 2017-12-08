@@ -1,0 +1,1 @@
+<h6>Copyright © 2012. ${param.company} . All Rights Reserved</h6>
